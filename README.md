@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Muhammad Ata 👋 :computer:
+I am a Frontend Engineer having expertise in Reactjs. I love Javascript :heart: and I have been working with Javascript related technologies such as Angularjs, Angular(2+) and Reactjs from the past 3+ years. I am a constant learner and I ocassionally share my knowledge by writing blog posts so that developers can get advantage from that. Apart from that I am fond of watching cricket and I like to visit touristic places.
 
 <!--
 **m-ata/m-ata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
