@@ -1,5 +1,5 @@
 ### Hi I'm Muhammad Ata 👋 :computer:
-I am a Software Developer having expertise in MERN Stack. I love Javascript :heart: and I have been working with Javascript related technologies such as Angular, Reactjs, Nodejs, Expressjs & MongoDB from the past 4+ years. I am a constant learner and I ocassionally share my knowledge by writing blog posts so that developers can get advantage from that. Apart from that I am fond of watching cricket and I like to visit touristic places.
+I am a Software Developer having expertise in MERN & MERN stack development . I love Javascript :heart: and I have been working with Javascript related technologies such as Angular, Reactjs, Nodejs, Expressjs & MongoDB from the past 4+ years. I am a constant learner and I ocassionally share my knowledge by writing blog posts so that developers can get advantage from that. Apart from that I am fond of watching cricket and I like to visit touristic places.
 
 <!--
 **m-ata/m-ata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
